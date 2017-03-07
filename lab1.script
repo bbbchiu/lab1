@@ -1,0 +1,24 @@
+命令稿啟動於 2017年03月07日 (週二) 20時03分59秒
+]0;ubuntu@ubuntu-BM1AF-BP1AF-BM6AF: ~ubuntu@ubuntu-BM1AF-BP1AF-BM6AF:~$ whoami; pwd
+ubuntu
+/home/ubuntu
+]0;ubuntu@ubuntu-BM1AF-BP1AF-BM6AF: ~ubuntu@ubuntu-BM1AF-BP1AF-BM6AF:~$ git config -l
+user.email=bbbchiu@gmail.com
+user.name=bbbchiu
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/bbbchiu/test_again.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;ubuntu@ubuntu-BM1AF-BP1AF-BM6AF: ~ubuntu@ubuntu-BM1AF-BP1AF-BM6AF:~$ git clone https://github.com/bbbchiu/lab1
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;ubuntu@ubuntu-BM1AF-BP1AF-BM6AF: ~ubuntu@ubuntu-BM1AF-BP1AF-BM6AF:~$ exit
+
+命令稿已於 2017年03月07日 (週二) 20時05分07秒
+ 完成
